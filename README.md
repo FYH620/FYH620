@@ -1,5 +1,5 @@
 ## I am FYH,a computer vision learner.
-- 🌱 I’m currently learning conputer vision.
+- 🌱 I’m currently learning computer vision.
 - 🔭 I’m interseted in AI technology and Back-End Engineering.
 - 📫 Email:FYH0620@outlook.com
 ## Blog-CVWorld[![BLOG](https://img.shields.io/badge/-BLOG-success)](http://cvworld.top/)
