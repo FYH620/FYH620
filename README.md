@@ -1,6 +1,6 @@
 ## I am FYH,a computer vision learner.
 - 🌱 I’m currently learning computer vision.
-- 🔭 I’m interseted in object detection and semantic segmentation.
+- 🔭 I’m interseted in image classification,object detection,semantic segmentation,object tracking and ocr.
 - 📫 Email:fyh0620@gmail.com
 - 📌 Blog:http://cvworld.top/
 ## [Blog-CVWorld](http://cvworld.top/)
